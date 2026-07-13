@@ -142,6 +142,8 @@ A variety of tools support the implementation of data-driven practices in the AE
 
 - **[BIM 360](https://www.autodesk.com/bim-360/)**  
   Cloud-based construction management tool.
+- **[Concrete Calculator Hub](https://concreteestimatorhub.com/)**  
+  Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning.
 
 - **[Power BI for AEC](https://powerbi.microsoft.com/en-us/industries/aec/)**  
   Data visualization and business intelligence tool tailored for AEC professionals.
